@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: http://www.alpha-mail.io/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
+Disallow: /email/
